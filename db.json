@@ -101,7 +101,7 @@
                "is_demo":false,
                "name":"Coding",
                "stream":"CODING",
-               "type":"math"
+               "type":"coding"
             },
             "course_activation_status":"activated",
             "course_id":"f12768dc-0fd2-11eb-bea7-02420a00ca63",
