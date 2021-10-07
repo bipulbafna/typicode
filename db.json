@@ -26,6 +26,21 @@
             "type":"REC",
             "type_name":"RECURRING"
          },
+      {
+            "course_id":"f12768dc-0fd2-11eb-bea7-02420a00ca63",
+            "end_date":1643682600,
+            "id":"21c41156-17a3-11ec-ba51-eed4f266fc11",
+            "is_demo":false,
+            "start_date":1612146600,
+            "status":"ACT",
+            "status_name":"ACTIVE",
+            "student_course_id":"b5507188-b891-11eb-9eb9-46fe477f13d0",
+            "student_id":"acee516e-d6d4-11e8-944d-02420a000033",
+            "tag":"REGULAR",
+            "teacher_slot_id":"84e53ac2-17a2-11ec-98ac-22e34da68a18",
+            "type":"REC",
+            "type_name":"RECURRING"
+         },
 {
             "course_id":"f12768dc-0fd2-11eb-bea7-02420a00ca63",
             "end_date":1643682600,
