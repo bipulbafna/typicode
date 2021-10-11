@@ -176,7 +176,7 @@
                "id":"ff57d830-933d-11ea-b944-0ac1020b43f9",
                "student_course_id":"b5507188-b891-11eb-9eb9-46fe477f13d0",
                "student_id":"acee516e-d6d4-11e8-944d-02420a000033",
-               "available_units":0,
+               "available_units":2,
                "consumed_units":2,
                "lapsed_units":2
             }
