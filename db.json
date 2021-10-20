@@ -7,7 +7,7 @@
    },
    "value":{
       "calendar_range":{
-         "min_ts":1634468400,
+         "min_ts":1634800609,
          "max_ts":1638256609
       },
       "slots":[
@@ -31,7 +31,7 @@
             "end_date":1631232000,
             "id":"21c41156-17a3-11ec-ba51-eed4f266fc11",
             "is_demo":false,
-            "start_date":1634641200,
+            "start_date":1635578209,
             "status":" ",
             "status_name":"ACTIVE",
             "student_course_id":"b5507188-b891-11eb-9eb9-46fe477f13d1",
@@ -46,7 +46,7 @@
             "end_date":1631232000,
             "id":"21c41156-17a3-11ec-ba51-eed4f266fc11",
             "is_demo":false,
-            "start_date":1634641200,
+            "start_date":1635578209,
             "status":" ",
             "status_name":"ACTIVE",
             "student_course_id":"b5507188-b891-11eb-9eb9-46fe477f13ef1",
